@@ -6,5 +6,8 @@
 	"license": "UNLICENSED",
 	"dependencies": {
 		"node-fetch": "^2.6.0"
+	},
+	"eslintConfig": {
+		"extends": "sarpik"
 	}
 }
