@@ -1,0 +1,7 @@
+{
+	"name": "github-secret-leak",
+	"version": "0.0.0",
+	"main": "index.js",
+	"author": "Kipras Melnikovas <kipras@kipras.org> (https://kipras.org/)",
+	"license": "UNLICENSED"
+}
