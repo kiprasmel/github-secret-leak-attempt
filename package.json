@@ -3,5 +3,8 @@
 	"version": "0.0.0",
 	"main": "index.js",
 	"author": "Kipras Melnikovas <kipras@kipras.org> (https://kipras.org/)",
-	"license": "UNLICENSED"
+	"license": "UNLICENSED",
+	"dependencies": {
+		"node-fetch": "^2.6.0"
+	}
 }
